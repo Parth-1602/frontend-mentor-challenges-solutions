@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "name": "Product Preview Card",
+      "category": "newbie",
+      "imgSrc": "/images/product-preview-card.jpg",
+      "submitted": "27-Aug-2022",
+      "liveUrl": "https://product-preview-card-component-frontendmentor-one.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/product-preview-card-component-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa"
+    }
+  ]
+}
