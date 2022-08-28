@@ -35,6 +35,15 @@
       "liveUrl": "https://nft-preview-card-component-frontendmentor-lime.vercel.app/",
       "gitHubCode": "https://github.com/Parth-1602/nft-preview-card-component-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U"
+    },
+    {
+      "name": "Order Summary",
+      "category": "newbie",
+      "imgSrc": "/images/order-summary.jpg",
+      "submitted": "28-Aug-2022",
+      "liveUrl": "https://order-summary-component-frontendmentor-jade.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/order-summary-component-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj"
     }
   ]
 }
