@@ -26,6 +26,15 @@
       "liveUrl": "https://qr-code-component-frontendmentor-one.vercel.app/",
       "gitHubCode": "https://github.com/Parth-1602/qr-code-component-frontendmentor/",
       "challengeLink": "https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H"
+    },
+    {
+      "name": "NFT Preview Card",
+      "category": "newbie",
+      "imgSrc": "/images/nft-preview-card.jpg",
+      "submitted": "28-Aug-2022",
+      "liveUrl": "https://nft-preview-card-component-frontendmentor-lime.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/nft-preview-card-component-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U"
     }
   ]
 }
