@@ -19,3 +19,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### NFT Preview Card
 
 <a href="https://nft-preview-card-component-frontendmentor-lime.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/nft-preview-card-component-frontendmentor/">Repo</a> | <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U">Try Out</a>
+
+### Order Summary
+
+<a href="https://order-summary-component-frontendmentor-jade.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/order-summary-component-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj">Try Out</a>
