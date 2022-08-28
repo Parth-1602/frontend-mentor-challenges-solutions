@@ -11,3 +11,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Interactive Rating
 
 <a href="https://interactive-rating-component-frontendmentor-hazel.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/interactive-rating-component-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI">Try Out</a>
+
+### QR Code
+
+<a href="https://qr-code-component-frontendmentor-one.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/qr-code-component-frontendmentor/">Repo</a> | <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">Try Out</a>
