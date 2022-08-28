@@ -15,3 +15,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### QR Code
 
 <a href="https://qr-code-component-frontendmentor-one.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/qr-code-component-frontendmentor/">Repo</a> | <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">Try Out</a>
+
+### NFT Preview Card
+
+<a href="https://nft-preview-card-component-frontendmentor-lime.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/nft-preview-card-component-frontendmentor/">Repo</a> | <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U">Try Out</a>
