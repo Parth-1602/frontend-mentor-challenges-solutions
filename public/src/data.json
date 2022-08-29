@@ -1,31 +1,22 @@
 {
   "data": [
     {
-      "name": "Product Preview Card",
+      "name": "Stats Preview Card",
       "category": "newbie",
-      "imgSrc": "/images/product-preview-card.jpg",
-      "submitted": "27-Aug-2022",
-      "liveUrl": "https://product-preview-card-component-frontendmentor-one.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/product-preview-card-component-frontendmentor",
-      "challengeLink": "https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa"
+      "imgSrc": "/images/stats-preview-card.jpg",
+      "submitted": "29-Aug-2022",
+      "liveUrl": "https://stats-preview-card-component-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/stats-preview-card-component-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62"
     },
     {
-      "name": "Interactive Rating",
+      "name": "Order Summary",
       "category": "newbie",
-      "imgSrc": "/images/interactive-rating.jpg",
-      "submitted": "27-Aug-2022",
-      "liveUrl": "https://interactive-rating-component-frontendmentor-hazel.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/interactive-rating-component-frontendmentor",
-      "challengeLink": "https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI"
-    },
-    {
-      "name": "QR Code",
-      "category": "newbie",
-      "imgSrc": "/images/qr-code.jpg",
+      "imgSrc": "/images/order-summary.jpg",
       "submitted": "28-Aug-2022",
-      "liveUrl": "https://qr-code-component-frontendmentor-one.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/qr-code-component-frontendmentor/",
-      "challengeLink": "https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H"
+      "liveUrl": "https://order-summary-component-frontendmentor-jade.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/order-summary-component-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj"
     },
     {
       "name": "NFT Preview Card",
@@ -37,13 +28,31 @@
       "challengeLink": "https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U"
     },
     {
-      "name": "Order Summary",
+      "name": "QR Code",
       "category": "newbie",
-      "imgSrc": "/images/order-summary.jpg",
+      "imgSrc": "/images/qr-code.jpg",
       "submitted": "28-Aug-2022",
-      "liveUrl": "https://order-summary-component-frontendmentor-jade.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/order-summary-component-frontendmentor",
-      "challengeLink": "https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj"
+      "liveUrl": "https://qr-code-component-frontendmentor-one.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/qr-code-component-frontendmentor/",
+      "challengeLink": "https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H"
+    },
+    {
+      "name": "Interactive Rating",
+      "category": "newbie",
+      "imgSrc": "/images/interactive-rating.jpg",
+      "submitted": "27-Aug-2022",
+      "liveUrl": "https://interactive-rating-component-frontendmentor-hazel.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/interactive-rating-component-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI"
+    },
+    {
+      "name": "Product Preview Card",
+      "category": "newbie",
+      "imgSrc": "/images/product-preview-card.jpg",
+      "submitted": "27-Aug-2022",
+      "liveUrl": "https://product-preview-card-component-frontendmentor-one.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/product-preview-card-component-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa"
     }
   ]
 }
