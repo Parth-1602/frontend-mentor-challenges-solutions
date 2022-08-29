@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "3-Column Preview Card",
+      "category": "newbie",
+      "imgSrc": "/images/3-column-preview-card.jpg",
+      "submitted": "29-Aug-2022",
+      "liveUrl": "https://3-column-preview-card-component-frontendmentor-six.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/3-column-preview-card-component-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-"
+    },
+    {
       "name": "Stats Preview Card",
       "category": "newbie",
       "imgSrc": "/images/stats-preview-card.jpg",
