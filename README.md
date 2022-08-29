@@ -27,3 +27,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Stats Preview Card Component
 
 <a href="https://stats-preview-card-component-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/stats-preview-card-component-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62">Try Out</a>
+
+### 3-Column Preview Card Component
+
+<a href="https://3-column-preview-card-component-frontendmentor-six.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/3-column-preview-card-component-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-">Try Out</a>
