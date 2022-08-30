@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "Profile Card",
+      "category": "newbie",
+      "imgSrc": "/images/profile-card.jpg",
+      "submitted": "30-Aug-2022",
+      "liveUrl": "https://profile-card-component-frontendmentor-mocha.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/profile-card-component-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ"
+    },
+    {
       "name": "3-Column Preview Card",
       "category": "newbie",
       "imgSrc": "/images/3-column-preview-card.jpg",
