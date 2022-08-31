@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "Social Proof",
+      "category": "newbie",
+      "imgSrc": "/images/social-proof.jpg",
+      "submitted": "31-Aug-2022",
+      "liveUrl": "https://social-proof-section-frontendmentor-xi.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/social-proof-section-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA"
+    },
+    {
       "name": "FAQ Accordion Card",
       "category": "newbie",
       "imgSrc": "/images/faq-accordion-card.jpg",
