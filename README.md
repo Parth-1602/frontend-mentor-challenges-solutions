@@ -43,3 +43,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Social Proof Section
 
 <a href="https://social-proof-section-frontendmentor-xi.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/social-proof-section-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA">Try Out</a>
+
+### Article Preview Component
+
+<a href="https://article-preview-component-frontendmentor-hazel.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/article-preview-component-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT">Try Out</a>
