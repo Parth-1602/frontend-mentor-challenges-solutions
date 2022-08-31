@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "Article Preview",
+      "category": "newbie",
+      "imgSrc": "/images/article-preview.jpg",
+      "submitted": "31-Aug-2022",
+      "liveUrl": "https://article-preview-component-frontendmentor-hazel.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/article-preview-component-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT"
+    },
+    {
       "name": "Social Proof",
       "category": "newbie",
       "imgSrc": "/images/social-proof.jpg",
