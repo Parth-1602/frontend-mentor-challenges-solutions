@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "FAQ Accordion Card",
+      "category": "newbie",
+      "imgSrc": "/images/faq-accordion-card.jpg",
+      "submitted": "31-Aug-2022",
+      "liveUrl": "https://faq-accordion-card-frontendmentor-one.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/faq-accordion-card-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam"
+    },
+    {
       "name": "Profile Card",
       "category": "newbie",
       "imgSrc": "/images/profile-card.jpg",
