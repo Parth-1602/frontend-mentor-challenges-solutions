@@ -35,3 +35,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Profile Card Component
 
 <a href="https://profile-card-component-frontendmentor-mocha.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/profile-card-component-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ">Try Out</a>
+
+### FAQ Accordion Card
+
+<a href="https://faq-accordion-card-frontendmentor-one.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/faq-accordion-card-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam">Try Out</a>
