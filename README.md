@@ -39,3 +39,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### FAQ Accordion Card
 
 <a href="https://faq-accordion-card-frontendmentor-one.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/faq-accordion-card-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam">Try Out</a>
+
+### Social Proof
+
+<a href="https://social-proof-section-frontendmentor-xi.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/social-proof-section-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA">Try Out</a>
