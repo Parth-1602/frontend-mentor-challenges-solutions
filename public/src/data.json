@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "Base Apparel Coming Soon",
+      "category": "newbie",
+      "imgSrc": "/images/base-apparel-coming-soon.jpg",
+      "submitted": "01-Sept-2022",
+      "liveUrl": "https://base-apparel-coming-soon-page-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/base-apparel-coming-soon-page-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0"
+    },
+    {
       "name": "4-Card Feature",
       "category": "newbie",
       "imgSrc": "/images/4-card-feature.jpg",
