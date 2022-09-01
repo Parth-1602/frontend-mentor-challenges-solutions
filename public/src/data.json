@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "4-Card Feature",
+      "category": "newbie",
+      "imgSrc": "/images/4-card-feature.jpg",
+      "submitted": "01-Sept-2022",
+      "liveUrl": "https://4-card-feature-section-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/4-card-feature-section-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK"
+    },
+    {
       "name": "Article Preview",
       "category": "newbie",
       "imgSrc": "/images/article-preview.jpg",
