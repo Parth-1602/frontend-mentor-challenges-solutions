@@ -51,3 +51,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### 4-Card Feature Section
 
 <a href="https://4-card-feature-section-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/4-card-feature-section-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK">Try Out</a>
+
+### Base Apparel Coming Soon Page
+
+<a href="https://base-apparel-coming-soon-page-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/base-apparel-coming-soon-page-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0">Try Out</a>
