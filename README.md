@@ -47,3 +47,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Article Preview Component
 
 <a href="https://article-preview-component-frontendmentor-hazel.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/article-preview-component-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT">Try Out</a>
+
+### 4-Card Feature Section
+
+<a href="https://4-card-feature-section-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/4-card-feature-section-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK">Try Out</a>
