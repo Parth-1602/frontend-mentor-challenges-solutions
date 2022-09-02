@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "Intro Component with Sign-up Form",
+      "category": "newbie",
+      "imgSrc": "/images/intro-component-with-sign-up-form.jpg",
+      "submitted": "02-Sept-2022",
+      "liveUrl": "https://intro-component-with-sign-up-form-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/intro-component-with-sign-up-form-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1"
+    },
+    {
       "name": "Base Apparel Coming Soon",
       "category": "newbie",
       "imgSrc": "/images/base-apparel-coming-soon.jpg",
