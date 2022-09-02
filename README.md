@@ -55,3 +55,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Base Apparel Coming Soon Page
 
 <a href="https://base-apparel-coming-soon-page-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/base-apparel-coming-soon-page-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0">Try Out</a>
+
+### Intro Component with Sign-up Form
+
+<a href="https://intro-component-with-sign-up-form-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/intro-component-with-sign-up-form-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1">Try Out</a>
