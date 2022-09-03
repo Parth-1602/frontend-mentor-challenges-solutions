@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "Huddle Landing Page v1",
+      "category": "newbie",
+      "imgSrc": "/images/huddle-landing-page-v1.jpg",
+      "submitted": "03-Sept-2022",
+      "liveUrl": "https://huddle-landing-page-v1-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/huddle-landing-page-v1-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0"
+    },
+    {
       "name": "Ping Coming Soon",
       "category": "newbie",
       "imgSrc": "/images/ping-coming-soon.jpg",
