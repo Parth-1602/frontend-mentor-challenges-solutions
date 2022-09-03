@@ -63,3 +63,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Single Price Grid Component
 
 <a href="https://single-price-grid-component-frontendmentor-phi.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/single-price-grid-component-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc">Try Out</a>
+
+### Ping Single Column Coming Soon Page
+
+<a href="https://ping-single-column-coming-soon-page-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/ping-single-column-coming-soon-page-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da">Try Out</a>

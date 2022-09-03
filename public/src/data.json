@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "Ping Coming Soon",
+      "category": "newbie",
+      "imgSrc": "/images/ping-coming-soon.jpg",
+      "submitted": "03-Sept-2022",
+      "liveUrl": "https://ping-single-column-coming-soon-page-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/ping-single-column-coming-soon-page-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da"
+    },
+    {
       "name": "Single Price Grid",
       "category": "newbie",
       "imgSrc": "/images/single-price-grid.jpg",
