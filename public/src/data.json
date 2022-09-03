@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "Single Price Grid",
+      "category": "newbie",
+      "imgSrc": "/images/single-price-grid.jpg",
+      "submitted": "03-Sept-2022",
+      "liveUrl": "https://single-price-grid-component-frontendmentor-phi.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/single-price-grid-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc"
+    },
+    {
       "name": "Intro Component with Sign-up Form",
       "category": "newbie",
       "imgSrc": "/images/intro-component-with-sign-up-form.jpg",

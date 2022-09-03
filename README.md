@@ -59,3 +59,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Intro Component with Sign-up Form
 
 <a href="https://intro-component-with-sign-up-form-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/intro-component-with-sign-up-form-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1">Try Out</a>
+
+### Single Price Grid Component
+
+<a href="https://single-price-grid-component-frontendmentor-phi.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/single-price-grid-component-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc">Try Out</a>
