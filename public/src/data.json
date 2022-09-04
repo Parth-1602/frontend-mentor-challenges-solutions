@@ -1,6 +1,33 @@
 {
   "data": [
     {
+      "name": "Advice Generator",
+      "category": "junior",
+      "imgSrc": "/images/advice-generator.jpg",
+      "submitted": "04-Sept-2022",
+      "liveUrl": "https://advice-generator-app-frontendmentor-three.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/advice-generator-app-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db"
+    },
+    {
+      "name": "Snap Landing Page",
+      "category": "junior",
+      "imgSrc": "/images/snap-landing-page.jpg",
+      "submitted": "04-Sept-2022",
+      "liveUrl": "https://snap-landing-page-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/snap-landing-page-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5"
+    },
+    {
+      "name": "Expenses Chart",
+      "category": "junior",
+      "imgSrc": "/images/expenses-chart.jpg",
+      "submitted": "04-Sept-2022",
+      "liveUrl": "https://expenses-chart-component-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/expenses-chart-component-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt"
+    },
+    {
       "name": "Huddle Landing Page v1",
       "category": "newbie",
       "imgSrc": "/images/huddle-landing-page-v1.jpg",

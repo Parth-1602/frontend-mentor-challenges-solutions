@@ -71,3 +71,15 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Huddle Landing Page with Single Introductory Section
 
 <a href="https://huddle-landing-page-v1-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/huddle-landing-page-v1-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0">Try Out</a>
+
+### Expenses Chart Component
+
+<a href="https://expenses-chart-component-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/expenses-chart-component-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt">Try Out</a>
+
+### Snap Landing Page
+
+<a href="https://snap-landing-page-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/snap-landing-page-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5">Try Out</a>
+
+### Advice Generator App
+
+<a href="https://advice-generator-app-frontendmentor-three.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/advice-generator-app-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db">Try Out</a>
