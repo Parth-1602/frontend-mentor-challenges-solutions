@@ -83,3 +83,15 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Advice Generator App
 
 <a href="https://advice-generator-app-frontendmentor-three.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/advice-generator-app-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db">Try Out</a>
+
+### Time Tracking Dashboard
+
+<a href="https://time-tracking-dashboard-frontendmentor-dusky.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/time-tracking-dashboard-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw">Try Out</a>
+
+### Tip Calculator App
+
+<a href="https://tip-calculator-app-frontendmentor-eight.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/tip-calculator-app-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX">Try Out</a>
+
+### Sunnyside Agency Landing Page
+
+<a href="https://sunnyside-agency-landing-page-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/sunnyside-agency-landing-page-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef">Try Out</a>

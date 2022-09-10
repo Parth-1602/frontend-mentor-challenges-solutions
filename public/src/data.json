@@ -1,6 +1,33 @@
 {
   "data": [
     {
+      "name": "Sunnyside Agency Landing",
+      "category": "junior",
+      "imgSrc": "/images/sunnyside-agency-landing.jpg",
+      "submitted": "10-Sept-2022",
+      "liveUrl": "https://sunnyside-agency-landing-page-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/sunnyside-agency-landing-page-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef"
+    },
+    {
+      "name": "Tip Calculator",
+      "category": "junior",
+      "imgSrc": "/images/tip-calculator.jpg",
+      "submitted": "10-Sept-2022",
+      "liveUrl": "https://tip-calculator-app-frontendmentor-eight.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/tip-calculator-app-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX"
+    },
+    {
+      "name": "Time Tracking Dashboard",
+      "category": "junior",
+      "imgSrc": "/images/time-tracking-dashboard.jpg",
+      "submitted": "10-Sept-2022",
+      "liveUrl": "https://time-tracking-dashboard-frontendmentor-dusky.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/time-tracking-dashboard-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw"
+    },
+    {
       "name": "Advice Generator",
       "category": "junior",
       "imgSrc": "/images/advice-generator.jpg",
