@@ -95,3 +95,15 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Sunnyside Agency Landing Page
 
 <a href="https://sunnyside-agency-landing-page-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/sunnyside-agency-landing-page-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef">Try Out</a>
+
+### Blogr Landing Page
+
+<a href="https://blogr-landing-page-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/blogr-landing-page-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP">Try Out</a>
+
+### Crowdfunding Product Page
+
+<a href="https://crowdfunding-product-page-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/crowdfunding-product-page-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR">Try Out</a>
+
+### Interactive Pricing Component
+
+<a href="https://interactive-pricing-component-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/interactive-pricing-component-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8">Try Out</a>

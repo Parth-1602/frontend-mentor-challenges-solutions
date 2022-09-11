@@ -1,6 +1,33 @@
 {
   "data": [
     {
+      "name": "Interactive Pricing",
+      "category": "junior",
+      "imgSrc": "/images/interactive-pricing.jpg",
+      "submitted": "11-Sept-2022",
+      "liveUrl": "https://interactive-pricing-component-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/interactive-pricing-component-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8"
+    },
+    {
+      "name": "Crowdfunding Product Page",
+      "category": "junior",
+      "imgSrc": "/images/crowdfunding-product-page.jpg",
+      "submitted": "11-Sept-2022",
+      "liveUrl": "https://crowdfunding-product-page-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/crowdfunding-product-page-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR"
+    },
+    {
+      "name": "Blogr Landing Page",
+      "category": "junior",
+      "imgSrc": "/images/blogr-landing-page.jpg",
+      "submitted": "11-Sept-2022",
+      "liveUrl": "https://blogr-landing-page-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/blogr-landing-page-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP"
+    },
+    {
       "name": "Sunnyside Agency Landing",
       "category": "junior",
       "imgSrc": "/images/sunnyside-agency-landing.jpg",
