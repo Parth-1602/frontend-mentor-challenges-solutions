@@ -107,3 +107,11 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Interactive Pricing Component
 
 <a href="https://interactive-pricing-component-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/interactive-pricing-component-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8">Try Out</a>
+
+### Loopstudios Landing Page
+
+<a href="https://loopstudios-landing-page-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/loopstudios-landing-page-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw">Try Out</a>
+
+### Testimonials Grid Section
+
+<a href="https://testimonials-grid-section-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/testimonials-grid-section-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7">Try Out</a>

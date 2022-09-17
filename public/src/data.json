@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "name": "Testimonials Grid",
+      "category": "junior",
+      "imgSrc": "/images/testimonials-grid.jpg",
+      "submitted": "17-Sept-2022",
+      "liveUrl": "https://testimonials-grid-section-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/testimonials-grid-section-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7"
+    },
+    {
+      "name": "Loopstudios Landing",
+      "category": "junior",
+      "imgSrc": "/images/loopstudios-landing.jpg",
+      "submitted": "17-Sept-2022",
+      "liveUrl": "https://loopstudios-landing-page-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/loopstudios-landing-page-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw"
+    },
+    {
       "name": "Interactive Pricing",
       "category": "junior",
       "imgSrc": "/images/interactive-pricing.jpg",
