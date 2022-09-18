@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "name": "Insure Landing Page",
+      "category": "junior",
+      "imgSrc": "/images/insure-landing-page.jpg",
+      "submitted": "18-Sept-2022",
+      "liveUrl": "https://insure-landing-page-frontendmentor-five.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/insure-landing-page-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8"
+    },
+    {
+      "name": "Social Media Dashboard",
+      "category": "junior",
+      "imgSrc": "/images/social-media-dashboard.jpg",
+      "submitted": "18-Sept-2022",
+      "liveUrl": "https://social-media-dashboard-with-theme-switcher-frontendmentor-flax.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/social-media-dashboard-with-theme-switcher-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H"
+    },
+    {
+      "name": "Coding Bootcamp Testimonials",
+      "category": "junior",
+      "imgSrc": "/images/coding-bootcamp-testimonials.jpg",
+      "submitted": "18-Sept-2022",
+      "liveUrl": "https://coding-bootcamp-testimonials-slider-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/coding-bootcamp-testimonials-slider-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL"
+    },
+    {
+      "name": "Flyo Data Storage",
+      "category": "junior",
+      "imgSrc": "/images/flyo-data-storage.jpg",
+      "submitted": "18-Sept-2022",
+      "liveUrl": "https://flyo-data-storage-component-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/flyo-data-storage-component-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n"
+    },
+    {
       "name": "Testimonials Grid",
       "category": "junior",
       "imgSrc": "/images/testimonials-grid.jpg",

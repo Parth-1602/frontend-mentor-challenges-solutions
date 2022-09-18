@@ -115,3 +115,19 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Testimonials Grid Section
 
 <a href="https://testimonials-grid-section-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/testimonials-grid-section-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7">Try Out</a>
+
+### Flyo Data Storage Component
+
+<a href="https://flyo-data-storage-component-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/flyo-data-storage-component-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n">Try Out</a>
+
+### Coding Bootcamp Testimonials Slider
+
+<a href="https://coding-bootcamp-testimonials-slider-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/coding-bootcamp-testimonials-slider-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL">Try Out</a>
+
+### Social Media Dashboard with Theme Switcher
+
+<a href="https://social-media-dashboard-with-theme-switcher-frontendmentor-flax.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/social-media-dashboard-with-theme-switcher-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H">Try Out</a>
+
+### Insure Landing Page
+
+<a href="https://insure-landing-page-frontendmentor-five.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/insure-landing-page-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8">Try Out</a>
