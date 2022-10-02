@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "Notifications Page",
+      "category": "junior",
+      "imgSrc": "/images/notifications-page.jpg",
+      "submitted": "02-Oct-2022",
+      "liveUrl": "https://notifications-page-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/notifications-page-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC"
+    },
+    {
       "name": "Insure Landing Page",
       "category": "junior",
       "imgSrc": "/images/insure-landing-page.jpg",

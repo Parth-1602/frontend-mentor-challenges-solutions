@@ -131,3 +131,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Insure Landing Page
 
 <a href="https://insure-landing-page-frontendmentor-five.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/insure-landing-page-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8">Try Out</a>
+
+### Notifications Page
+
+<a href="https://notifications-page-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/notifications-page-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC">Try Out</a>
