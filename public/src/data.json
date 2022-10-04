@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "Card Details Form",
+      "category": "junior",
+      "imgSrc": "/images/interactive-card-details-form.jpg",
+      "submitted": "04-Oct-2022",
+      "liveUrl": "https://interactive-card-details-form-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/interactive-card-details-form-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw"
+    },
+    {
       "name": "Notifications Page",
       "category": "junior",
       "imgSrc": "/images/notifications-page.jpg",

@@ -135,3 +135,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Notifications Page
 
 <a href="https://notifications-page-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/notifications-page-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC">Try Out</a>
+
+### Interactive Card Details Form
+
+<a href="https://interactive-card-details-form-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/interactive-card-details-form-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw">Try Out</a>
