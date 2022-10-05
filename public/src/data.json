@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "name": "Pricing Component",
+      "category": "junior",
+      "imgSrc": "/images/pricing-component.jpg",
+      "submitted": "05-Oct-2022",
+      "liveUrl": "https://pricing-component-with-toggle-frontendmentor.vercel.app/",
+      "gitHubCode": "https://github.com/Parth-1602/pricing-component-with-toggle-frontendmentor",
+      "challengeLink": "https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC"
+    },
+    {
       "name": "Card Details Form",
       "category": "junior",
       "imgSrc": "/images/interactive-card-details-form.jpg",

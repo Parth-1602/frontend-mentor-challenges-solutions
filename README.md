@@ -139,3 +139,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 ### Interactive Card Details Form
 
 <a href="https://interactive-card-details-form-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/interactive-card-details-form-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw">Try Out</a>
+
+### Pricing Component with Toggle
+
+<a href="https://pricing-component-with-toggle-frontendmentor.vercel.app/">Live</a> | <a href="https://github.com/Parth-1602/pricing-component-with-toggle-frontendmentor">Repo</a> | <a href="https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC">Try Out</a>
