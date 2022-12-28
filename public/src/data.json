@@ -1,12 +1,19 @@
 {
   "data": [
     {
+      "name": "Product Preview Card",
+      "category": "newbie",
+      "imgSrc": "/images/product-preview-card.jpg",
+      "submitted": "28-Dec-2022",
+      "liveUrl": "https://product-preview-card-component-frontendmentor-pi.vercel.app/",
+      "challengeLink": "https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa"
+    },
+    {
       "name": "Pricing Component",
       "category": "junior",
       "imgSrc": "/images/pricing-component.jpg",
       "submitted": "05-Oct-2022",
       "liveUrl": "https://pricing-component-with-toggle-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/pricing-component-with-toggle-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC"
     },
     {
@@ -15,7 +22,6 @@
       "imgSrc": "/images/interactive-card-details-form.jpg",
       "submitted": "04-Oct-2022",
       "liveUrl": "https://interactive-card-details-form-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/interactive-card-details-form-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw"
     },
     {
@@ -24,7 +30,6 @@
       "imgSrc": "/images/notifications-page.jpg",
       "submitted": "02-Oct-2022",
       "liveUrl": "https://notifications-page-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/notifications-page-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC"
     },
     {
@@ -33,7 +38,6 @@
       "imgSrc": "/images/insure-landing-page.jpg",
       "submitted": "18-Sept-2022",
       "liveUrl": "https://insure-landing-page-frontendmentor-five.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/insure-landing-page-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8"
     },
     {
@@ -42,7 +46,6 @@
       "imgSrc": "/images/social-media-dashboard.jpg",
       "submitted": "18-Sept-2022",
       "liveUrl": "https://social-media-dashboard-with-theme-switcher-frontendmentor-flax.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/social-media-dashboard-with-theme-switcher-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H"
     },
     {
@@ -51,7 +54,6 @@
       "imgSrc": "/images/coding-bootcamp-testimonials.jpg",
       "submitted": "18-Sept-2022",
       "liveUrl": "https://coding-bootcamp-testimonials-slider-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/coding-bootcamp-testimonials-slider-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL"
     },
     {
@@ -60,7 +62,6 @@
       "imgSrc": "/images/flyo-data-storage.jpg",
       "submitted": "18-Sept-2022",
       "liveUrl": "https://flyo-data-storage-component-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/flyo-data-storage-component-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n"
     },
     {
@@ -69,7 +70,6 @@
       "imgSrc": "/images/testimonials-grid.jpg",
       "submitted": "17-Sept-2022",
       "liveUrl": "https://testimonials-grid-section-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/testimonials-grid-section-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7"
     },
     {
@@ -78,7 +78,6 @@
       "imgSrc": "/images/loopstudios-landing.jpg",
       "submitted": "17-Sept-2022",
       "liveUrl": "https://loopstudios-landing-page-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/loopstudios-landing-page-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw"
     },
     {
@@ -87,7 +86,6 @@
       "imgSrc": "/images/interactive-pricing.jpg",
       "submitted": "11-Sept-2022",
       "liveUrl": "https://interactive-pricing-component-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/interactive-pricing-component-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8"
     },
     {
@@ -96,7 +94,6 @@
       "imgSrc": "/images/crowdfunding-product-page.jpg",
       "submitted": "11-Sept-2022",
       "liveUrl": "https://crowdfunding-product-page-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/crowdfunding-product-page-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR"
     },
     {
@@ -105,7 +102,6 @@
       "imgSrc": "/images/blogr-landing-page.jpg",
       "submitted": "11-Sept-2022",
       "liveUrl": "https://blogr-landing-page-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/blogr-landing-page-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP"
     },
     {
@@ -114,7 +110,6 @@
       "imgSrc": "/images/sunnyside-agency-landing.jpg",
       "submitted": "10-Sept-2022",
       "liveUrl": "https://sunnyside-agency-landing-page-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/sunnyside-agency-landing-page-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef"
     },
     {
@@ -123,7 +118,6 @@
       "imgSrc": "/images/tip-calculator.jpg",
       "submitted": "10-Sept-2022",
       "liveUrl": "https://tip-calculator-app-frontendmentor-eight.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/tip-calculator-app-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX"
     },
     {
@@ -132,7 +126,6 @@
       "imgSrc": "/images/time-tracking-dashboard.jpg",
       "submitted": "10-Sept-2022",
       "liveUrl": "https://time-tracking-dashboard-frontendmentor-dusky.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/time-tracking-dashboard-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw"
     },
     {
@@ -141,7 +134,6 @@
       "imgSrc": "/images/advice-generator.jpg",
       "submitted": "04-Sept-2022",
       "liveUrl": "https://advice-generator-app-frontendmentor-three.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/advice-generator-app-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db"
     },
     {
@@ -150,7 +142,6 @@
       "imgSrc": "/images/snap-landing-page.jpg",
       "submitted": "04-Sept-2022",
       "liveUrl": "https://snap-landing-page-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/snap-landing-page-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5"
     },
     {
@@ -159,7 +150,6 @@
       "imgSrc": "/images/expenses-chart.jpg",
       "submitted": "04-Sept-2022",
       "liveUrl": "https://expenses-chart-component-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/expenses-chart-component-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt"
     },
     {
@@ -168,7 +158,6 @@
       "imgSrc": "/images/huddle-landing-page-v1.jpg",
       "submitted": "03-Sept-2022",
       "liveUrl": "https://huddle-landing-page-v1-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/huddle-landing-page-v1-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0"
     },
     {
@@ -177,7 +166,6 @@
       "imgSrc": "/images/ping-coming-soon.jpg",
       "submitted": "03-Sept-2022",
       "liveUrl": "https://ping-single-column-coming-soon-page-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/ping-single-column-coming-soon-page-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da"
     },
     {
@@ -186,7 +174,6 @@
       "imgSrc": "/images/single-price-grid.jpg",
       "submitted": "03-Sept-2022",
       "liveUrl": "https://single-price-grid-component-frontendmentor-phi.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/single-price-grid-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc"
     },
     {
@@ -195,7 +182,6 @@
       "imgSrc": "/images/intro-component-with-sign-up-form.jpg",
       "submitted": "02-Sept-2022",
       "liveUrl": "https://intro-component-with-sign-up-form-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/intro-component-with-sign-up-form-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1"
     },
     {
@@ -204,7 +190,6 @@
       "imgSrc": "/images/base-apparel-coming-soon.jpg",
       "submitted": "01-Sept-2022",
       "liveUrl": "https://base-apparel-coming-soon-page-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/base-apparel-coming-soon-page-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0"
     },
     {
@@ -213,7 +198,6 @@
       "imgSrc": "/images/4-card-feature.jpg",
       "submitted": "01-Sept-2022",
       "liveUrl": "https://4-card-feature-section-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/4-card-feature-section-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK"
     },
     {
@@ -222,7 +206,6 @@
       "imgSrc": "/images/article-preview.jpg",
       "submitted": "31-Aug-2022",
       "liveUrl": "https://article-preview-component-frontendmentor-hazel.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/article-preview-component-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT"
     },
     {
@@ -231,7 +214,6 @@
       "imgSrc": "/images/social-proof.jpg",
       "submitted": "31-Aug-2022",
       "liveUrl": "https://social-proof-section-frontendmentor-xi.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/social-proof-section-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA"
     },
     {
@@ -240,7 +222,6 @@
       "imgSrc": "/images/faq-accordion-card.jpg",
       "submitted": "31-Aug-2022",
       "liveUrl": "https://faq-accordion-card-frontendmentor-one.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/faq-accordion-card-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam"
     },
     {
@@ -249,7 +230,6 @@
       "imgSrc": "/images/profile-card.jpg",
       "submitted": "30-Aug-2022",
       "liveUrl": "https://profile-card-component-frontendmentor-mocha.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/profile-card-component-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ"
     },
     {
@@ -258,7 +238,6 @@
       "imgSrc": "/images/3-column-preview-card.jpg",
       "submitted": "29-Aug-2022",
       "liveUrl": "https://3-column-preview-card-component-frontendmentor-six.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/3-column-preview-card-component-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-"
     },
     {
@@ -267,7 +246,6 @@
       "imgSrc": "/images/stats-preview-card.jpg",
       "submitted": "29-Aug-2022",
       "liveUrl": "https://stats-preview-card-component-frontendmentor.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/stats-preview-card-component-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62"
     },
     {
@@ -276,7 +254,6 @@
       "imgSrc": "/images/order-summary.jpg",
       "submitted": "28-Aug-2022",
       "liveUrl": "https://order-summary-component-frontendmentor-jade.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/order-summary-component-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj"
     },
     {
@@ -285,7 +262,6 @@
       "imgSrc": "/images/nft-preview-card.jpg",
       "submitted": "28-Aug-2022",
       "liveUrl": "https://nft-preview-card-component-frontendmentor-lime.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/nft-preview-card-component-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U"
     },
     {
@@ -294,7 +270,6 @@
       "imgSrc": "/images/qr-code.jpg",
       "submitted": "28-Aug-2022",
       "liveUrl": "https://qr-code-component-frontendmentor-one.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/qr-code-component-frontendmentor/",
       "challengeLink": "https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H"
     },
     {
@@ -303,17 +278,7 @@
       "imgSrc": "/images/interactive-rating.jpg",
       "submitted": "27-Aug-2022",
       "liveUrl": "https://interactive-rating-component-frontendmentor-hazel.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/interactive-rating-component-frontendmentor",
       "challengeLink": "https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI"
-    },
-    {
-      "name": "Product Preview Card",
-      "category": "newbie",
-      "imgSrc": "/images/product-preview-card.jpg",
-      "submitted": "27-Aug-2022",
-      "liveUrl": "https://product-preview-card-component-frontendmentor-one.vercel.app/",
-      "gitHubCode": "https://github.com/Parth-1602/product-preview-card-component-frontendmentor",
-      "challengeLink": "https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa"
     }
   ]
 }

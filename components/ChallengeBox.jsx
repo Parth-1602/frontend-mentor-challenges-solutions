@@ -58,11 +58,6 @@ const ChallengeBox = ({ details }) => {
                 <LaunchIcon className={classes.actionIcon} alt="Live" />
               </a>
             </Tooltip>
-            <Tooltip title="Code" arrow>
-              <a href={details.gitHubCode} target="_blank" rel="noreferrer">
-                <GitHubIcon className={classes.actionIcon} alt="View Code" />
-              </a>
-            </Tooltip>
             <Tooltip title="Try" arrow>
               <a href={details.challengeLink} target="_blank" rel="noreferrer">
                 <PsychologyIcon
