@@ -6,7 +6,7 @@ This is the collection of all my Frontend Mentor challenge solutions. You can fi
 
 ### Product Preview Card Component
 
-<a href="https://product-preview-card-component-frontendmentor-one.vercel.app/">Live</a> | <a href="https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa">Try Out</a>
+<a href="https://product-preview-card-component-frontendmentor-pi.vercel.app/">Live</a> | <a href="https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa">Try Out</a>
 
 ### Interactive Rating Component
 
